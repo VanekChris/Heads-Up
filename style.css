@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: #111;
+    color: white;
+    font-family: JetBrainsMono Nerd Font;
+}
+
+img {
+    max-width: 50%;
+    max-width: 50%;
+    margin-top: 20px;
+}
